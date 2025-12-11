@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 2025 graduate from the Indian Institute of Technology Kharagpur, specializing in **Machine Learning, Natural Language Processing, and Large Language Models**. My work focuses on **agentic AI systems, multilingual LLM adaptation, retrieval augmented generation, and efficient training techniques**. I enjoy building end to end ML applications ranging from **from-scratch Transformer architectures** to **scalable RAG systems** deployed in production like environments.  
+I’m a 2025 graduate from the Indian Institute of Technology Kharagpur, specializing in Machine Learning, Natural Language Processing, and Large Language Models. My work focuses on agentic AI systems, multilingual LLM adaptation, retrieval augmented generation, and efficient training techniques. I also enjoy building end to end ML applications deployed in production environments.  
 You can explore my work in detail on my [GitHub](https://github.com/mrbane10).
 
 ---
@@ -16,8 +16,8 @@ You can explore my work in detail on my [GitHub](https://github.com/mrbane10).
 - Large Language Models & Generative AI  
 - LLM Reasoning & Agentic Workflows  
 - Explainable AI and Interpretability  
-- Knowledge-Graph Integration in Neural Models  
-- Retrieval-Augmented Generation (RAG)  
+- Knowledge Graph Integration in Neural Models  
+- Retrieval Augmented Generation (RAG)  
 - Multilingual & Low Resource NLP  
 - Efficient Training, Fine-Tuning & Inference  
 
